@@ -1,0 +1,12 @@
+.pic {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+.img-404{
+  height: 600px;
+}
+.notfound-page{
+  margin-top: 50px;
+  font-size: 60px;
+}
